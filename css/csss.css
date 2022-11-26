@@ -1,0 +1,50 @@
+
+img {
+  margin-top: 100px;
+}
+
+#logo
+{
+    align-items: center;
+    text-align: center;
+    background-color: #333;
+    position: sticky;
+    text-decoration: none;
+
+}
+
+h2{
+    color: black;
+    text-align: center;
+}
+
+
+.nav-list
+li{
+    text-decoration: none;
+    display: inline;
+    margin: 0px;
+}
+.nav-wrapper
+{
+  background-color: #252725;
+  padding: 5px;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  text-decoration: none;
+
+}
+
+.nav-list
+{
+  list-style: none;
+  padding: 0;
+  display:flex;
+  align-items: stretch;
+  text-decoration: none;
+
+  justify-content: space-around;
+  width: 100%;
+}
